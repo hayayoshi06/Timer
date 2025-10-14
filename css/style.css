@@ -47,7 +47,7 @@ html, body {
   right: 7%;
   z-index: 2;             /* 背景より確実に上 */
   width: 450px;
-  height: 300px;
+  height: 280px;
   display: flex;
   justify-content: center;
   align-items: center;
