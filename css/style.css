@@ -23,7 +23,7 @@ html, body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background-color: #000;
+  background-color: rgb(20, 22, 24);
   z-index: 0;
 }
 
@@ -37,7 +37,7 @@ html, body {
   object-fit: contain;     /* 比率維持で表示 */
   z-index: 1;
   pointer-events: none;
-  background: #000;
+  background: rgb(20, 24, 22)
 }
 
 /* ===== カウントダウンタイマー ===== */
