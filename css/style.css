@@ -43,7 +43,7 @@ html, body {
 /* ===== カウントダウンタイマー ===== */
 .countdown-overlay {
   position: absolute;      /* sheetを基準に配置 */
-  top: 20%;
+  top: 10%;
   right: 8%;
   z-index: 2;             /* 背景より確実に上 */
   width: 450px;
