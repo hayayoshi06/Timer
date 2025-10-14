@@ -44,7 +44,7 @@ html, body {
 .countdown-overlay {
   position: absolute;      /* sheetを基準に配置 */
   top: 10%;
-  right: 8%;
+  right: 7%;
   z-index: 2;             /* 背景より確実に上 */
   width: 450px;
   height: 300px;
