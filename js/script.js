@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // -------- 開発用テストモード --------
   // true にすると常に 11:00 扱いで動作確認可能（夜でも動く）
-  const TEST_MODE = false;  // true or false
+  const TEST_MODE = true;  // true or false
   const TEST_HOUR = 11;
 
   // -------- 画像プリロード --------
